@@ -1,0 +1,14 @@
+{
+  "name": "The dark side of the Ruby",
+  "description": "This lightning talk shows some of the dark sides of the Ruby language.",
+  "sections": [
+    { "section": "title" },
+
+    { "section": "about_me" },
+
+    { "section": "about_me" },
+
+    { "section": "end" },
+    { "section": "title" }
+  ]
+}
