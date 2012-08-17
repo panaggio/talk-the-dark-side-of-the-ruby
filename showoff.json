@@ -14,6 +14,7 @@
     { "section": "variable_initialization" },
     { "section": "env" },
     { "section": "require" },
+    { "section": "precedence" },
 
     { "section": "about_me" },
 
