@@ -11,6 +11,7 @@
     { "section": "splat" },
     { "section": "underscore" },
     { "section": "string_to_array_of_char" },
+    { "section": "variable_initialization" },
 
     { "section": "about_me" },
 
