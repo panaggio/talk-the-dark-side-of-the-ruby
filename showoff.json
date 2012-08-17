@@ -13,6 +13,7 @@
     { "section": "string_to_array_of_char" },
     { "section": "variable_initialization" },
     { "section": "env" },
+    { "section": "require" },
 
     { "section": "about_me" },
 
