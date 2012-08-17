@@ -15,6 +15,7 @@
     { "section": "env" },
     { "section": "require" },
     { "section": "precedence" },
+    { "section": "math" },
 
     { "section": "about_me" },
 
