@@ -11,7 +11,7 @@ If you want to run this presentation, you should first get it from Github
 and then run the ShowOff server:
 
     $ git clone https://github.com/panaggio/talk-the-dark-side-of-the-ruby.git
-    $ cd talk-html5
+    $ cd talk-the-dark-side-of-the-ruby
     $ showoff serve
 
 Then you should be able to go to
